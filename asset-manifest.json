@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ShopSnackk/static/css/main.2c7071d7.css",
+    "main.js": "/ShopSnackk/static/js/main.ba427958.js",
+    "static/js/453.d855a71b.chunk.js": "/ShopSnackk/static/js/453.d855a71b.chunk.js",
+    "static/media/fa-solid-900.ttf": "/ShopSnackk/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/ShopSnackk/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/ShopSnackk/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/ShopSnackk/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/ShopSnackk/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/ShopSnackk/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/ShopSnackk/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/ShopSnackk/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/ShopSnackk/index.html",
+    "main.2c7071d7.css.map": "/ShopSnackk/static/css/main.2c7071d7.css.map",
+    "main.ba427958.js.map": "/ShopSnackk/static/js/main.ba427958.js.map",
+    "453.d855a71b.chunk.js.map": "/ShopSnackk/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c7071d7.css",
+    "static/js/main.ba427958.js"
+  ]
+}
